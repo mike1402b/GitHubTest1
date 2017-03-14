@@ -1,3 +1,4 @@
 Test1
 userb change
 user a conflict
+userb conflict
